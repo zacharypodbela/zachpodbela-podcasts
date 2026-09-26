@@ -5,3 +5,7 @@ my-podcast-feed:
     audio briefings for listening on the go.
   episodes:
   - public/episodes/2624d562-0613-4a31-a91d-6a7e65354ffd
+  - public/episodes/b981091c-d46e-4a9d-b33e-eaf79a49080b
+  - public/episodes/067307a5-cb2c-4412-af09-2e7dff2c5d46
+  - public/episodes/6b852b4f-9b73-4a2c-bc8a-126044fdf617
+  - public/episodes/c12823bb-c51b-47f4-9355-d50aa261156c
